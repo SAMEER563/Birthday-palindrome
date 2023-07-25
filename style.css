@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: rgb(29, 35, 51);
+    color: white;
+  }
+  
+  main {
+    border: 1px solid white;
+    text-align: center;
+    height: 100%;
+  }
+  
+  p {
+    padding: 2rem;
+    text-align: left;
+    font-size: large;
+  }
+  
